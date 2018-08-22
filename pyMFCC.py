@@ -7,7 +7,6 @@ from scipy import fftpack
 from scipy.io import wavfile
 from matplotlib import pyplot as plt
 import numpy
-import wave
 import decimal
 
 
